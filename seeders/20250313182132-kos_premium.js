@@ -17,6 +17,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 2",
@@ -28,6 +30,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 3",
@@ -39,6 +43,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 4",
@@ -50,6 +56,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 5",
@@ -61,6 +69,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Surabaya
@@ -74,6 +84,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 7",
@@ -85,6 +97,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 8",
@@ -96,6 +110,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 9",
@@ -107,6 +123,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 10",
@@ -118,6 +136,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Bandung
@@ -131,6 +151,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 12",
@@ -142,6 +164,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 13",
@@ -153,6 +177,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 14",
@@ -164,6 +190,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 15",
@@ -175,6 +203,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Yogyakarta
@@ -188,6 +218,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 17",
@@ -199,6 +231,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 18",
@@ -210,6 +244,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 19",
@@ -221,6 +257,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 20",
@@ -232,6 +270,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Medan
@@ -245,6 +285,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 22",
@@ -256,6 +298,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 23",
@@ -267,6 +311,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 24",
@@ -278,6 +324,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 25",
@@ -289,6 +337,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Denpasar
@@ -302,6 +352,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 27",
@@ -313,6 +365,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 28",
@@ -324,6 +378,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 29",
@@ -335,6 +391,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 30",
@@ -346,6 +404,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Semarang
@@ -359,6 +419,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 32",
@@ -370,6 +432,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 33",
@@ -381,6 +445,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 34",
@@ -392,6 +458,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 35",
@@ -403,6 +471,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Makassar
@@ -416,6 +486,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 37",
@@ -427,6 +499,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 38",
@@ -438,6 +512,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 39",
@@ -449,6 +525,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 40",
@@ -460,6 +538,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Depok
@@ -473,6 +553,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 42",
@@ -484,6 +566,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 43",
@@ -495,6 +579,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 44",
@@ -506,6 +592,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 45",
@@ -517,6 +605,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Malang
@@ -530,6 +620,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 47",
@@ -541,6 +633,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 48",
@@ -552,6 +646,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 49",
@@ -563,6 +659,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Premium 50",
@@ -574,6 +672,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur premium, Keamanan 24 jam",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Premium.jpg?updatedAt=1742572430868",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
       ],
       {}
