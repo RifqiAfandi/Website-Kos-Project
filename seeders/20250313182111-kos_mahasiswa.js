@@ -17,6 +17,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 2",
@@ -28,6 +30,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 3",
@@ -39,6 +43,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 4",
@@ -50,6 +56,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 5",
@@ -61,6 +69,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Surabaya
@@ -74,6 +84,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 7",
@@ -85,6 +97,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 8",
@@ -96,6 +110,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 9",
@@ -107,6 +123,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 10",
@@ -118,6 +136,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Bandung
@@ -131,6 +151,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 12",
@@ -142,6 +164,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 13",
@@ -153,6 +177,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 14",
@@ -164,6 +190,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 15",
@@ -175,6 +203,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Yogyakarta
@@ -188,6 +218,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 17",
@@ -199,6 +231,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 18",
@@ -210,6 +244,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 19",
@@ -221,6 +257,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 20",
@@ -232,6 +270,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Medan
@@ -245,6 +285,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 22",
@@ -256,6 +298,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 23",
@@ -267,6 +311,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 24",
@@ -278,6 +324,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 25",
@@ -289,6 +337,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Denpasar
@@ -302,6 +352,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 27",
@@ -313,6 +365,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 28",
@@ -324,6 +378,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 29",
@@ -335,6 +391,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 30",
@@ -346,6 +404,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Semarang
@@ -359,6 +419,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 32",
@@ -370,6 +432,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 33",
@@ -381,6 +445,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 34",
@@ -392,6 +458,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 35",
@@ -403,6 +471,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Makassar
@@ -416,6 +486,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 37",
@@ -427,6 +499,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 38",
@@ -438,6 +512,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 39",
@@ -449,6 +525,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 40",
@@ -460,6 +538,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Depok
@@ -473,6 +553,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 42",
@@ -484,6 +566,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 43",
@@ -495,6 +579,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 44",
@@ -506,6 +592,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 45",
@@ -517,6 +605,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
 
         // Malang
@@ -530,6 +620,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 47",
@@ -541,6 +633,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 48",
@@ -552,6 +646,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 3",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 49",
@@ -563,6 +659,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 2",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
         {
           name: "Kos Mahasiswa 50",
@@ -574,6 +672,8 @@ module.exports = {
           facility: "Wi-Fi, AC, Furnitur lengkap 1",
           kosImg:
             "https://ik.imagekit.io/RifqiAfandi/Mahasiswa.jpg?updatedAt=1742572430515",
+          createdAt: new Date(),
+          updatedAt: new Date(),
         },
       ],
       {}
