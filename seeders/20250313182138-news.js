@@ -7,8 +7,9 @@ module.exports = {
       "News",
       [
         {
-          name: "John Doe",
-          isBetaMember: false,
+          newsImg: "https://ik.imagekit.io/RifqiAfandi/news.jpg?updatedAt=1742627198505",
+          createdAt: new Date(), 
+          updatedAt: new Date() 
         },
       ],
       {}
