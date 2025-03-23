@@ -1,46 +1,43 @@
-'use strict';
+"use strict";
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable('Kos_Pegawai', {
+    await queryInterface.createTable("Kos_Pegawai", {
       id: {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
       },
-      name: {
-        type: Sequelize.STRING
-      },
+      name: { type: DataTypes.STRING, allowNull: false },
       gender: {
-        type: Sequelize.STRING
+        type: DataTypes.ENUM("Putra", "Putri"),
+        defaultValue: "Putra",
+        validate: {
+          isIn: {
+            args: [["Putra", "Putri"]],
+            msg: "Gender Tidak Ditemukan",
+          },
+        },
+        allowNull: false,
       },
-      description: {
-        type: Sequelize.STRING
-      },
-      phone_number: {
-        type: Sequelize.INTEGER
-      },
-      city: {
-        type: Sequelize.STRING
-      },
-      price: {
-        type: Sequelize.DECIMAL
-      },
-      facility: {
-        type: Sequelize.STRING
-      },
+      description: { type: DataTypes.STRING, allowNull: false },
+      phone_number: { type: DataTypes.INTEGER, allowNull: false },
+      city: { type: DataTypes.STRING, allowNull: false },
+      price: { type: DataTypes.BIGINT, allowNull: false },
+      facility: { type: DataTypes.STRING, allowNull: false },
+      kosImg: DataTypes.TEXT,
       createdAt: {
         allowNull: false,
-        type: Sequelize.DATE
+        type: Sequelize.DATE,
       },
       updatedAt: {
         allowNull: false,
-        type: Sequelize.DATE
-      }
+        type: Sequelize.DATE,
+      },
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable('Kos_Pegawai');
-  }
+    await queryInterface.dropTable("Kos_Pegawai");
+  },
 };
