@@ -9,9 +9,9 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      name: { type: DataTypes.STRING, allowNull: false },
+      name: { type: Sequelize.STRING, allowNull: false },
       gender: {
-        type: DataTypes.ENUM("Putra", "Putri"),
+        type: Sequelize.ENUM("Putra", "Putri"),
         defaultValue: "Putra",
         validate: {
           isIn: {
@@ -21,12 +21,12 @@ module.exports = {
         },
         allowNull: false,
       },
-      description: { type: DataTypes.STRING, allowNull: false },
-      phone_number: { type: DataTypes.INTEGER, allowNull: false },
-      city: { type: DataTypes.STRING, allowNull: false },
-      price: { type: DataTypes.BIGINT, allowNull: false },
-      facility: { type: DataTypes.STRING, allowNull: false },
-      kosImg: DataTypes.TEXT,
+      description: { type: Sequelize.STRING, allowNull: false },
+      phone_number: { type: Sequelize.INTEGER, allowNull: false },
+      city: { type: Sequelize.STRING, allowNull: false },
+      price: { type: Sequelize.BIGINT, allowNull: false },
+      facility: { type: Sequelize.STRING, allowNull: false },
+      kosImg: Sequelize.TEXT,
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE

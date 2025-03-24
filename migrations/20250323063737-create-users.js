@@ -1,8 +1,9 @@
 'use strict';
 const {
-  Model
+  Model,
+  Sequelize
 } = require('sequelize');
-module.exports = (sequelize, DataTypes) => {
+module.exports = (sequelize, Sequelize) => {
   class User extends Model {
     /**
      * Helper method for defining associations.
@@ -15,7 +16,7 @@ module.exports = (sequelize, DataTypes) => {
   }
   User.init({
     email: {
-      type: DataTypes.STRING,
+      type: Sequelize.STRING,
       allowNull: false,
       unique: true,
       validate: {
@@ -34,7 +35,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     password: {
-      type: DataTypes.STRING,
+      type: Sequelize.STRING,
       allowNull: false,
       validate: {
         notNull: {
@@ -52,7 +53,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     name: {
-      type: DataTypes.STRING,
+      type: Sequelize.STRING,
       allowNull: false,
       validate: {
         notNull: {
@@ -66,7 +67,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     phone: {
-      type: DataTypes.STRING,
+      type: Sequelize.STRING,
       allowNull: false,
       validate: {
         notNull: {
@@ -80,7 +81,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     role: {
-      type: DataTypes.ENUM('admin', 'user'),
+      type: Sequelize.ENUM('admin', 'user'),
       defaultValue: "user",
       validate: {
         isIn: {
@@ -89,7 +90,7 @@ module.exports = (sequelize, DataTypes) => {
         }
       }
     },
-    profileImg: DataTypes.TEXT
+    profileImg: Sequelize.TEXT
   }, {
     sequelize,
     modelName: 'User',
