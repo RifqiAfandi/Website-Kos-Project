@@ -1,8 +1,8 @@
-const { Kos_Premium } = require("../models");
+const { Kos_Premiums } = require("../models");
 
 async function getAllKosPremium(req, res) {
   try {
-    const premium = await Kos_Premium.findAll();
+    const premium = await Kos_Premiums.findAll();
 
     if (premium.length == 0) {
       return res.status(404).json({
@@ -51,7 +51,7 @@ async function getAllKosPremium(req, res) {
 async function getKosPremiumById(req, res) {
   try {
     const id = req.params.id;
-    const premium = await Kos_Premium.findOne({
+    const premium = await Kos_Premiums.findOne({
       where: { id },
     });
 

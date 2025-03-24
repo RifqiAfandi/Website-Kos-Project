@@ -4,7 +4,7 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.bulkInsert(
-      "Kos_Premium",
+      "Kos_Premiums",
       [
         // Jakarta
         {
@@ -681,6 +681,6 @@ module.exports = {
   },
 
   async down(queryInterface, Sequelize) {
-    await queryInterface.bulkDelete("Kos_Premium", null, {});
+    await queryInterface.bulkDelete("Kos_Premiums", null, {});
   },
 };

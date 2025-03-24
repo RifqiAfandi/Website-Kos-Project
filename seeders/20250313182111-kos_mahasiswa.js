@@ -4,7 +4,7 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.bulkInsert(
-      "Kos_Mahasiswa",
+      "Kos_Mahasiswas",
       [
         // Jakarta
         {

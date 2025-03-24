@@ -1,8 +1,8 @@
-const { Kos_Pegawai } = require("../models");
+const { Kos_Pegawais } = require("../models");
 
 async function getAllKosPegawai(req, res) {
   try {
-    const pegawai = await Kos_Pegawai.findAll();
+    const pegawai = await Kos_Pegawais.findAll();
 
     if (pegawai.length == 0) {
       return res.status(404).json({
@@ -51,7 +51,7 @@ async function getAllKosPegawai(req, res) {
 async function getKosPegawaiById(req, res) {
   try {
     const id = req.params.id;
-    const pegawai = await Kos_Pegawai.findOne({
+    const pegawai = await Kos_Pegawais.findOne({
       where: { id },
     });
 

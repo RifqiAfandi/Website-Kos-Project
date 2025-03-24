@@ -34,7 +34,7 @@ module.exports = (sequelize, DataTypes) => {
     },
     {
       sequelize,
-      modelName: "Kos_Mahasiswa",
+      modelName: "Kos_Mahasiswas",
     }
   );
   return Kos_Mahasiswa;

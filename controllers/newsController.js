@@ -4,10 +4,10 @@ async function getAllNews(req, res) {
   try {
     const news = await News.findAll();
 
-    if (city.length == 0) {
+    if (news.length == 0) {
       return res.status(404).json({
         status: "Failed",
-        message: "No data cities found",
+        message: "No data news found",
         isSuccess: false,
         data: null,
       });
@@ -15,10 +15,10 @@ async function getAllNews(req, res) {
 
     res.status(200).json({
       status: "Success",
-      message: "Success get cites data",
+      message: "Success get news data",
       isSuccess: true,
       data: {
-        city,
+        news,
       },
     });
   } catch (error) {
