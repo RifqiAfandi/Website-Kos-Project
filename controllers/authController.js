@@ -44,6 +44,7 @@ async function register(req, res) {
       password: hashedPassword,
       name,
       phone,
+      role: "user",
       profileImg,
     });
 
