@@ -22,7 +22,7 @@ module.exports = {
         allowNull: false,
       },
       description: { type: Sequelize.STRING, allowNull: false },
-      phone_number: { type: Sequelize.INTEGER, allowNull: false },
+      phone_number: { type: Sequelize.STRING, allowNull: false },
       city: { type: Sequelize.STRING, allowNull: false },
       price: { type: Sequelize.BIGINT, allowNull: false },
       facility: { type: Sequelize.STRING, allowNull: false },
