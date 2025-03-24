@@ -1,4 +1,4 @@
-# Car Management API
+# Kos Management API
 
 Ini adalah API manajemen kos yang dibangun menggunakan **Express.js**, **PostgreSQL**, dan **Sequelize** sebagai ORM.
 
