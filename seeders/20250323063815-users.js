@@ -17,6 +17,8 @@ module.exports = {
           phone: 1234567890,
           role: "admin",
           profileImg: profilUrl,
+          createdAt: new Date(), 
+          updatedAt: new Date() 
         },
         {
           email: "user@example.com",
@@ -25,6 +27,8 @@ module.exports = {
           phone: 9876543210,
           role: "user",
           profileImg: profilUrl,
+          createdAt: new Date(), 
+          updatedAt: new Date() 
         },
       ],
       {}
