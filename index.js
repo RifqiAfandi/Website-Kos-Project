@@ -5,7 +5,7 @@ const morgan = require("morgan");
 const expressEjsLayout = require("express-ejs-layouts");
 const cors = require("cors");
 
-const router = require("./Routes");
+const router = require("./routes");
 const app = express();
 
 app.use(cors());
