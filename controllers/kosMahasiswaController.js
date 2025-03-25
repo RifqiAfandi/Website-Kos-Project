@@ -106,7 +106,7 @@ async function createKosMahasiswa(req, res) {
       const file = req.file;
       const split = file.originalname.split(".");
       const ext = split[split.length - 1];
-      const { name, gender, description, phone_number, city, price, kosImg } =
+      const { name, gender, description, phone_number, city, price } =
         req.body;
 
       const updloadImg = await imagekit.upload({
