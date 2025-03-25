@@ -1,4 +1,4 @@
-const Users = "Dummy Admin";
+const Users = require("../models");
 
 async function getAllUser(req, res) {
     try {
@@ -110,6 +110,9 @@ async function getUserById(req, res) {
     
 }
 
+
+
 module.exports = {
     getAllUser,
+    getUserById
 };
