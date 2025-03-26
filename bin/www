@@ -1,10 +1,8 @@
 require("dotenv").config();
-const app = require("../index");
-const http = require("http"); 
+const app = require("../index");z
 
 const PORT = process.env.PORT || 3000;
-const server = http.createServer(app);
 
-server.listen(PORT, () => {
+app.listen(PORT, () => {
   console.log(`server running in port ${PORT}`);
 });
