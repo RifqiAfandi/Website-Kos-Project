@@ -5,7 +5,8 @@
   "scripts": {
     "test": "none",
     "dev": "nodemon -r dotenv/config bin/www",
-    "start": "node -r dotenv/config bin/www"
+    "start": "node -r dotenv/config bin/www",
+    "vecel-build": "echo hello"
   },
   "author": "RifqiAffandi",
   "license": "ISC",
