@@ -56,11 +56,6 @@ Ini adalah API manajemen kos yang dibangun menggunakan **Express.js**, **Postgre
    npm run dev
    ```
 
-6. Akses dokumentasi Postman di:
-   ```
-   https://documenter.getpostman.com/view/38718469/2sAYkKGGj2
-   ```
-
 ## Hashing Password
 
 Password di-hash menggunakan **bcrypt** saat registrasi pengguna untuk memastikan keamanan.
