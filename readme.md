@@ -34,7 +34,7 @@ Ini adalah API manajemen kos yang dibangun menggunakan **Express.js**, **Postgre
    DB_NAME=
    DB_HOST=
    DB_PORT=
-   PORT=3000
+   PORT=
 
    IMAGEKIT_PUBLIC_KEY=
    IMAGEKIT_PRIVATE_KEY=
