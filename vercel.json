@@ -8,7 +8,11 @@
   ],
   "routes": [
     {
-      "src": "/api/health-check",
+      "src": "/api/(.*)",
+      "dest": "/bin/www"
+    },
+    {
+      "src": "/(.*)",
       "dest": "/bin/www"
     }
   ]
